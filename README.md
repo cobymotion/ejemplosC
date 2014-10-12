@@ -1,4 +1,10 @@
 ejemplosC
 =========
 
-Ejemlos con Programación en C
+Ejemplos con Programación en C
+
+@Autor: cobymotion 
+
+Jose Luis Cobián Hermosillo 
+
+@cobymotion
